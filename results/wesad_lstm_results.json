@@ -1,0 +1,10 @@
+{
+    "Test Accuracy": 0.8182,
+    "Loss": 0.423,
+    "AUROC_per_class": [
+        0.90515645,
+        0.99472014,
+        0.90798485
+    ],
+    "Notes": "Final trained 3-class LSTM on WESAD data."
+}
